@@ -6,4 +6,4 @@ It extracts data from multiple csv files and loads it in the MySQL Database
 It includes complex SQL queries with multiple joins and CTE's for pivoting and analysing data
 of 5000 Employees
 
-The data files for the project in taken from Mockaroo.com 
+The data files for the project are taken from Mockaroo.com 
